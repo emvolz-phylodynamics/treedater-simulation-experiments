@@ -1,0 +1,7 @@
+note beast xmls are based on relaxed clock sims and use true topology
+
+expected hours for 50 mil iterations of a 3_25 sim: 
+> 50 * 50e6 / 1e4 / 60  / 60
+[1] 69.44444
+or
+0.56 hours/million states
